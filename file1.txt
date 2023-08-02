@@ -1,1 +1,1 @@
-mengubah lagi bari 1
+ini adalah perubahan pada file1.txt
