@@ -1,1 +1,2 @@
 ini adalah perubahan pada file1.txt
+mennambah baris 2
